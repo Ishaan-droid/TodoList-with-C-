@@ -1,0 +1,15 @@
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.csproj.AssemblyReference.cache
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.AssemblyInfoInputs.cache
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.AssemblyInfo.cs
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.csproj.CoreCompileInputs.cache
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/bin/Debug/net6.0/CSharp_ToDoList
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/bin/Debug/net6.0/CSharp_ToDoList.deps.json
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/bin/Debug/net6.0/CSharp_ToDoList.runtimeconfig.json
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/bin/Debug/net6.0/CSharp_ToDoList.dll
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/bin/Debug/net6.0/CSharp_ToDoList.pdb
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.dll
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/refint/CSharp_ToDoList.dll
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.pdb
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/CSharp_ToDoList.genruntimeconfig.cache
+/Users/ishaanthakur/Desktop/Projects/CSharp_ToDoList/CSharp_ToDoList/obj/Debug/net6.0/ref/CSharp_ToDoList.dll
